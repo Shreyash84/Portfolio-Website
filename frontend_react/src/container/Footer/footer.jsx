@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 
 import { AppWrap, MotionWrap } from '../../wrapper';
 import { images } from '../../constants'
-import { urlFor, client } from '../../client';
+import { client } from '../../client';
 import './Footer.scss'
 
 const Footer = () => {
